@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Abdelouahab, a student at 1337 with a passion for game development and 3D art. I enjoy creating immersive experiences, from coding, to designing 3D assets
+Hey there! I'm Abdelouahab, a student at 1337 with a passion for game development and 3D art. I enjoy creating immersive experiences, from coding, to designing 3D assets!
 
 
 ## 🌐 Socials:
