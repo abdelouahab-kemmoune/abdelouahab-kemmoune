@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Abdelouahab, a software engineering student at 1337 with a strong passion for building robust full-stack web applications and high-performance systems. I love turning complex ideas into clean, scalable, and efficient digital solutions!
+Hey there! I'm Abdelouahab, a software engineering student at 1337 with a strong passion for building robust full-stack web applications and high-performance systems. I love turning complex ideas into clean, scalable, and efficient digital solutions! When I'm not coding, I also dive into 3D art and design to bring creative visions to life.
 
 
 ## 🌐 Socials:
